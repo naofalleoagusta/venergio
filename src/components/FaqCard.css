@@ -1,0 +1,22 @@
+.faq-card{
+    border-radius: 20px;
+    cursor: pointer;
+    transition-duration: 500ms;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12);
+    background-color: white;
+}
+.faq-card:hover{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+.faq-answer{
+    color:#9a9c9e;
+
+}
+.faq-icon{
+    color:#2c546c;
+    font-size: 15px;
+}
+
+.faq-pointer{
+    color:black;
+}

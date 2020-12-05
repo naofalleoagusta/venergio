@@ -1,0 +1,56 @@
+@media (min-width: 992px) {
+    .logo-footer {
+        max-width: 25%;
+    }
+    /* .nexus-logo-container {
+        margin-left: 1rem !important;
+    } */
+    .logo-nexus {
+        max-width: 15%;
+    }
+    .nexus-text {
+        text-align: center;
+    }
+    .nexus-logo-container {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo-footer {
+        max-width: 25%;
+    }
+    .logo-nexus {
+        max-width: 20%;
+    }
+    .nexus-text {
+        text-align: center;
+    }
+    .nexus-logo-container {
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .logo-footer {
+        max-width: 30%;
+    }
+    .nexus-logo-container {
+        text-align: left;
+    }
+    .logo-nexus {
+        max-width: 45%;
+    }
+    .nexus-text {
+        text-align: left;
+    }
+}
+
+.nexus-text {
+    color: #c4c4c4;
+    font-size: 16px;
+}
+
+.kadosoft-link{
+    color:#c4c4c4
+}

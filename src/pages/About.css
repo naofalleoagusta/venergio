@@ -1,0 +1,337 @@
+.about-details-area .about-tittle h2 {
+    color: #0e0e0e;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+@media (max-width: 575px) {
+    .about-details-area .about-tittle h2 {
+        font-size: 30px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .about-details-area .about-tittle h2 {
+        font-size: 30px;
+    }
+}
+.about-details-area .about-details .pear1 {
+    color: #0e0e0e;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .about-details-area .about-details .pear1 {
+        font-size: 17px;
+    }
+}
+
+.section-padding2 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+    .section-padding2 {
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .section-padding2 {
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .section-padding2 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .section-padding2 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+}
+@media (max-width: 575px) {
+    .section-padding2 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+}
+
+.case_study_area {
+    position: relative;
+    padding: 190px 0 216px 0;
+    position: relative;
+    position: relative;
+}
+
+@media (max-width: 767px) {
+    /* line 5, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+    .case_study_area {
+        padding: 120px 0 120px 0;
+    }
+}
+
+
+/* line 36, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .patrn_1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* line 41, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .patrn_2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+/* line 46, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    overflow: hidden;
+}
+
+/* line 50, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study.white_single_study {
+    overflow: visible;
+}
+
+/* line 53, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .thumb {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    overflow: hidden;
+}
+
+/* line 57, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .thumb img {
+    width: 360px;
+    height: 256px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+/* line 65, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading {
+    background: #0a2640;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 31px 0;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+/* line 69, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading h4 {
+    margin-bottom: 6px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+/* line 75, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading h4 a:hover {
+    color: #ff008c;
+}
+
+/* line 80, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading p {
+    color: #798896;
+    margin-bottom: 0;
+}
+
+/* line 84, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading.white_subheading {
+    background: #fff;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.04);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* line 89, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading.white_subheading h4 {
+    color: #001d38;
+}
+
+/* line 92, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading.white_subheading h4 a:hover {
+    color: #ff008c;
+}
+
+/* line 97, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study .subheading.white_subheading p {
+    color: #919191;
+    margin-bottom: 0;
+}
+
+/* line 105, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study:hover .thumb img {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+/* line 108, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study:hover .subheading {
+    background: #1a344c;
+}
+
+/* line 110, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .single_study:hover .subheading.white_subheading {
+    background: #fff;
+}
+.subheading a{
+    color:#fff;
+}
+
+/* line 116, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .owl-dots {
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+/* line 122, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .owl-dots div {
+    width: 13px;
+    height: 13px;
+    background: #334a60;
+    display: inline-block;
+    margin: 0 2px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+/* line 129, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .owl-dots div.active {
+    width: 27px;
+    background: #808e9c;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+}
+
+/* line 135, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .load_more {
+    margin-top: 40px;
+}
+
+/* line 137, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .load_more .load_more_btn {
+    display: inline-block;
+    color: #ff008c;
+    background: #fff5fb;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    padding: 13px 35px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* line 145, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.case_study_area .load_more .load_more_btn:hover {
+    background: #ff008c;
+    color: #fff;
+}
+.section_title{
+    padding:0 0 80px 0;
+}
+.section_title.white_text h2{
+    color: #fff;
+  }
+  
+  /* line 42, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text span {
+    color: #fff;
+    padding-top: 0;
+  }
+  
+  /* line 45, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text span:before {
+    display: none;
+  }
+  
+  /* line 49, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text p {
+    color: #fff;
+  }
+.section_title{
+    padding:0 0 80px 0;
+}
+.section_title.white_text h2{
+    color: #fff;
+  }
+  
+  /* line 42, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text span {
+    color: #fff;
+    padding-top: 0;
+  }
+  
+  /* line 45, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text span:before {
+    display: none;
+  }
+  
+  /* line 49, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_section_title.scss */
+  .section_title.white_text p {
+    color: #fff;
+  }
+
+
+
+.team_section{
+    padding:120px 0 120px 0;
+}
+.team_section h2{
+
+    font-weight: 700;
+}
+
+
+
+.ach-banner-dot {
+    width: 13px;
+    height: 13px;
+    background: #334A60;
+    display: inline-block;
+    margin: 0 2px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: none;
+}
+
+.ach-banner-dot-active {
+    height: 13px;
+    width: 27px;
+    background: #808E9C;
+    border-radius: 30px;
+    border: none;
+    margin: 0 2px;
+    cursor: pointer;
+}

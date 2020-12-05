@@ -1,0 +1,46 @@
+.hero-area .hero-cap h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: capitalize;
+    
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .hero-area .hero-cap h2 {
+        font-size: 29px;
+    }
+}
+@media (max-width: 575px) {
+    .hero-area .hero-cap h2 {
+        font-size: 35px;
+    }
+}
+
+
+.hero-height2 {
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero-height2 {
+        min-height: 500px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-height2 {
+        min-height: 400px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .hero-height2 {
+        min-height: 300px;
+    }
+}
+@media (max-width: 575px) {
+    .hero-height2 {
+        min-height: 300px;
+    }
+}

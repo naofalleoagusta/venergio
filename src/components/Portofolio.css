@@ -1,0 +1,22 @@
+.port-banner-dot {
+    width: 13px;
+    height: 13px;
+    background: #334a60;
+    display: inline-block;
+    margin: 0 2px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: none;
+}
+
+.port-banner-dot-active {
+    height: 13px;
+    width: 27px;
+    background: #808e9c;
+    border-radius: 30px;
+    border: none;
+    margin: 0 2px;
+    cursor: pointer;
+}
+

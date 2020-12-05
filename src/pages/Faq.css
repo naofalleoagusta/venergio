@@ -1,0 +1,18 @@
+
+
+.faq-container .patrn_1 {
+    position: absolute;
+    left: 0;
+    top: 10%;
+}
+
+/* line 41, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_case_study.scss */
+.faq-container .patrn_2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.faq-list{
+    background-color: #d1c66e;
+    border-radius: 30px;
+}

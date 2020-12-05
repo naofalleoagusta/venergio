@@ -1,0 +1,27 @@
+.paginator {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin: 0 2px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: none;
+    font-weight: 500;
+    color:black;
+
+    cursor: pointer;
+}
+
+.paginator-active {
+    width: 30px;
+    height: 1330pxpx;
+    background: #2c546c;
+    color : white;
+    font-weight: 500;
+    border-radius: 30px;
+    border: none;
+    margin: 0 2px;
+    cursor: pointer;
+}
+
